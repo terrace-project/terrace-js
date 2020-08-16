@@ -1,0 +1,10 @@
+{
+  "name": "terrace-project",
+  "repository": "git@github.com:terrace-project/terrace-js.git",
+  "author": "Rheinard Korf <rheinard@thekorfs.com>",
+  "license": "MIT",
+  "private": true,
+  "workspaces" : [
+    "packages/*"
+  ]
+}
